@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+google-cloud-firestore
+google-cloud-pubsub
+pydantic
+python-dotenv
+jinja2
+pytest
+httpx
+pytest-mock
+email-validator
